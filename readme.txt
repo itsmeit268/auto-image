@@ -1,4 +1,4 @@
-=== Auto Save Image ===
+=== Auto Save Images Wordpress Plugin ===
 Contributors: Arriveddev
 Donate link: https://itsmeit.co
 Tags:
