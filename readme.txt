@@ -1,6 +1,6 @@
 === Auto Save Images Wordpress Plugin ===
 Contributors: Arriveddev
-Donate link: https://itsmeit.co
+Website: https://itsmeit.co
 Tags:
 Requires at least: 4.6
 Requires PHP: 7.4
