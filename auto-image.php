@@ -96,7 +96,7 @@ class Auto_SaveImages
     public function save_post_images($post_id)
     {
         // Kiểm tra nếu đây là một bản lưu tự động thì dừng lại
-        if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) {
+        if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE && !is_singular('post')) {
             return;
         }
 
